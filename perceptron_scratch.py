@@ -24,4 +24,4 @@ def perceptron(x,y):
     return w[0],w[1:]
 
 # print(perceptron(x,y))
-
+churn
